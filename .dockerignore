@@ -1,0 +1,6 @@
+.git
+logs.txt
+.env
+.env.example
+README.md
+app/README.md
